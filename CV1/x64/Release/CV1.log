@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\code\CV1\CV1\scaleFace.h(11,62): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\code\CV1\CV1\scaleFace.h(11,39): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\code\CV1\CV1\main.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\code\CV1\CV1\main.cpp(93,54): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  Создание кода
+  172 of 175 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CV1.vcxproj -> D:\code\CV1\x64\Release\CV1.exe
